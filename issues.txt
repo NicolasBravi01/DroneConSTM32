@@ -1,0 +1,3 @@
+1) effettuare gli acquisti il prima possibile
+2) studiare distributore di energia montato sul drone
+3) far funzionare l'altimetro
