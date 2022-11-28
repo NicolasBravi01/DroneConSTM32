@@ -1,0 +1,15 @@
+../Core/Src/main.c:114:5:main	72	static
+../Core/Src/main.c:205:13:MX_ADC1_Init	48	static
+../Core/Src/main.c:273:6:MX_ETH_Init	8	static
+../Core/Src/main.c:322:13:MX_TIM3_Init	64	static
+../Core/Src/main.c:385:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:433:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:456:6:Test_COM_Tx	24	static
+../Core/Src/main.c:468:6:Test_COM_Rx	32	static
+../Core/Src/main.c:490:5:charToInt	40	static
+../Core/Src/main.c:539:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:567:6:moveIt	16	static
+../Core/Src/main.c:573:6:move	16	static
+../Core/Src/main.c:579:6:stopIt	4	static
+../Core/Src/main.c:584:6:armIt	4	static
+../Core/Src/main.c:597:6:Error_Handler	4	static,ignoring_inline_asm
