@@ -1,0 +1,3 @@
+Lo scopo di questo gruppo è di permettere la comunicazione tra il radiocomando e la scheda STM32.
+
+Relazione conclusa.
